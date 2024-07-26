@@ -1,0 +1,9 @@
+{
+	"name": "shargithubadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b84138cc-c417-4849-a6e0-707984c3aa72",
+		"tenantId": "94e13f98-8927-4e69-942f-f5f8296ec72e"
+	}
+}
